@@ -2,6 +2,10 @@
 
 Proyek ini merupakan tugas akhir dari mata kuliah **Bengkel Koding**, yang bertujuan untuk memprediksi tingkat obesitas seseorang berdasarkan data gaya hidup dan pola makan menggunakan model machine learning.
 
+## 📱 Coba Aplikasi Online
+
+👉 [Klik di sini untuk membuka aplikasi Streamlit](https://obesity-prediction-bengkod.streamlit.app/)
+
 ## 📁 Struktur Repository
 
 | File/Folder                | Deskripsi |
@@ -30,7 +34,7 @@ Proyek ini merupakan tugas akhir dari mata kuliah **Bengkel Koding**, yang bertu
 1. **Data Preprocessing**
    - Imputasi missing value
    - Encoding fitur kategorikal
-   - Penskalaan fitur numerik (jika diperlukan)
+   - Penskalaan fitur numerik 
    - Deteksi dan analisis outlier
 
 2. **Pemodelan & Evaluasi**
